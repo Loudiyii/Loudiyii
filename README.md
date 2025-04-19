@@ -43,7 +43,7 @@
 ## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/loudiyiabderrahim)
-- 📬 Email: anamrabdo1@gmail.com
+- 📬 Email: Abderrahiim.loudiyii@gmail.com
 
 
 
