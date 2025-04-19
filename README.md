@@ -13,7 +13,7 @@
 
 - 🎓 M2 Student in **Data Science & Innovation Management**
 - 🏗️ Building real-time & batch pipelines using **Airflow**, **Spark**, and **PostgreSQL**
-- 🔍 Scraping & structuring messy data with **BeautifulSoup** + **Selenium/Undetected-Chromedriver**
+- 🔍 Scraping & structuring messy data 
 - ☁️ Working with **Docker**, **Azure**, and learning **DataOps** & **cloud orchestration**
 - 🧠 Learning addict. Startup nerd. Real-world project builder.
 
