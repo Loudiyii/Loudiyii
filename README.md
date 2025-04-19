@@ -10,7 +10,7 @@
 
 
 ## 🧠 About Me
-- 🎓 Data Enginner ( School of information Science Morroco ) 
+- 🎓 Data Enginner ( School of information Sciences Morroco ) 
 - 🎓 M2 Student in **Data Science & Innovation Management**
 - 🏗️ Building real-time & batch pipelines using **Airflow**, **Spark**, and **PostgreSQL**
 - 🔍 Scraping & structuring messy data 
