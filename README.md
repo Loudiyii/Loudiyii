@@ -2,8 +2,10 @@
 <h3 align="center">Data Engineer • Cloud Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+insights.;Automating+data%2C+one+pipeline+at+a+time.;Passionate+about+tech+for+Africa.;Open+source+everything+I+can." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Turning+data+into+insights.;Automating+data%2C+one+pipeline+at+a+time.;Love+Cats." alt="Typing SVG" />
 </p>
+
+
 
 
 
